@@ -12,9 +12,6 @@
   --font-Lexand-Deca: "Lexend Deca", sans-serif;
 }
 
-/* font-family: "Inter", sans-serif;
-font-family: "Lexend Deca", sans-serif; */
-
 * {
   box-sizing: border-box;
 }
@@ -60,6 +57,7 @@ p {
   font-size: 0.75rem;
   text-transform: uppercase;
 }
+
 /* layout */
 
 body {
