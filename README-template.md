@@ -12,9 +12,9 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -56,6 +56,11 @@ Second issue was the image sizing with the responsive layout. Struggled with the
 ### Continued development
 
 Intend to revisit the layout to improve implementation time.
+
+### Useful resources
+
+[Stackoverflow - "Should border radius clip the content"](https://stackoverflow.com/questions/8582176/should-border-radius-clip-the-content)
+helpful link when trying to figure out how to clip the image corners with the parent container
 
 ## Author
 
