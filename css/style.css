@@ -141,13 +141,5 @@ body {
     height: auto;
     background-position: right;
     background-size: cover;
-
-    /* background-image: unset; */
-    /* background-size: 50% auto; */
-    /* background-image: url("../images/image-header-desktop.jpg"); */
-    /* background-size: cover; */
-    /* width: unset;
-    max-height: unset;
-    height: 100%; */
   }
 }
